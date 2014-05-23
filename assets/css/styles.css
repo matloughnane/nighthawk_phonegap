@@ -113,7 +113,7 @@ img.logo {
 
 /* line 89, sass/partials/_base.scss */
 img.circle {
-  max-width: 90%;
+  max-width: 80%;
   box-shadow: 0px 2px 2px #2c3e50;
 }
 
