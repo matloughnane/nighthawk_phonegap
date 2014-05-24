@@ -18,34 +18,34 @@
   width: device-width;
 }
 
-/* line 10, sass/partials/_base.scss */
+/* line 10, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 body {
   font-family: 'Rambla',sans-serif;
   background-color: #f2f1ef;
   margin: 0px;
 }
 
-/* line 16, sass/partials/_base.scss */
+/* line 16, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 h1 {
   color: #323335;
 }
 
-/* line 20, sass/partials/_base.scss */
+/* line 20, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 a {
   text-decoration: none;
 }
 
-/* line 24, sass/partials/_base.scss */
+/* line 24, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 ::selection {
   background: #3498db;
 }
 
-/* line 28, sass/partials/_base.scss */
+/* line 28, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 ::-moz-selection {
   background: #3498db;
 }
 
-/* line 32, sass/partials/_base.scss */
+/* line 32, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 .footer_bar {
   width: 100%;
   position: fixed;
@@ -54,19 +54,19 @@ a {
   background-color: #2574a9;
   padding: 5px;
 }
-/* line 39, sass/partials/_base.scss */
+/* line 39, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 .footer_bar span {
   color: #f2f1ef;
   font-size: 12px;
   padding: 5px;
 }
-/* line 44, sass/partials/_base.scss */
+/* line 44, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 .footer_bar a {
   font-size: 12px;
   color: #f2f1ef;
 }
 
-/* line 50, sass/partials/_base.scss */
+/* line 50, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 .full_bar {
   font-size: 1.5em;
   padding: 0.5em;
@@ -74,23 +74,23 @@ a {
   background-color: #2c3e50;
 }
 
-/* line 57, sass/partials/_base.scss */
+/* line 57, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 .actionBar {
   margin-left: 2em;
 }
 
-/* line 61, sass/partials/_base.scss */
+/* line 61, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 .content {
   background-color: #f2f1ef;
 }
 
-/* line 65, sass/partials/_base.scss */
+/* line 65, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 .content_secondary {
   color: #f2f1ef;
   background-color: #2c3e50;
 }
 
-/* line 70, sass/partials/_base.scss */
+/* line 70, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 .content_tertiary {
   color: #f2f1ef;
   background-color: #2574a9;
@@ -99,25 +99,25 @@ a {
 /*
 ==================IMAGES NAVIGATION====================
 */
-/* line 79, sass/partials/_base.scss */
+/* line 79, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 img {
   max-width: 90%;
   margin: 0 auto;
 }
 
-/* line 84, sass/partials/_base.scss */
+/* line 84, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 img.logo {
   max-width: 90%;
   margin: 20px auto;
 }
 
-/* line 89, sass/partials/_base.scss */
+/* line 89, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 img.circle {
   max-width: 80%;
   box-shadow: 0px 2px 2px #2c3e50;
 }
 
-/* line 94, sass/partials/_base.scss */
+/* line 94, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
 img.panel_logo {
   max-width: 50%;
   margin: 0px auto;
@@ -127,44 +127,44 @@ img.panel_logo {
 ==================TABLET BASICS====================
 */
 @media screen and (max-width: 968px) {
-  /* line 104, sass/partials/_base.scss */
+  /* line 104, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   h1 {
     font-size: 2em;
     padding: 0px;
     margin: 0px;
   }
 
-  /* line 109, sass/partials/_base.scss */
+  /* line 109, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   h2 {
     font-size: 1.5em;
   }
 
-  /* line 112, sass/partials/_base.scss */
+  /* line 112, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   h3 {
     font-size: 1em;
   }
 
-  /* line 115, sass/partials/_base.scss */
+  /* line 115, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .nav li a {
     font-size: 0.75em;
   }
 
-  /* line 118, sass/partials/_base.scss */
+  /* line 118, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   p {
     font-size: 1em;
   }
 
-  /* line 121, sass/partials/_base.scss */
+  /* line 121, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .italics {
     font-size: 0.9em;
   }
 
-  /* line 124, sass/partials/_base.scss */
+  /* line 124, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   a {
     padding: 10px 20px;
   }
 
-  /* line 127, sass/partials/_base.scss */
+  /* line 127, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .wrapper {
     position: relative;
     margin: 0 auto;
@@ -174,55 +174,61 @@ img.panel_logo {
 ==================MOBILE BASICS====================
 */
 @media screen and (max-width: 640px) {
-  /* line 138, sass/partials/_base.scss */
+  /* line 138, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   h1 {
     font-size: 2em;
     padding: 0px;
     margin: 0px;
   }
 
-  /* line 143, sass/partials/_base.scss */
+  /* line 143, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   p {
     font-size: 1.0em;
   }
 
-  /* line 146, sass/partials/_base.scss */
+  /* line 146, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .content {
     height: auto;
   }
-  /* line 148, sass/partials/_base.scss */
+  /* line 148, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .content p {
     font-size: 1em;
   }
 
-  /* line 152, sass/partials/_base.scss */
+  /* line 152, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .italics {
     font-size: 1em;
   }
 
-  /* line 155, sass/partials/_base.scss */
+  /* line 155, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .content_secondary {
     height: auto;
   }
 
-  /* line 158, sass/partials/_base.scss */
+  /* line 158, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .content_tertiary {
     height: auto;
   }
 
-  /* line 161, sass/partials/_base.scss */
+  /* line 161, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_base.scss */
   .wrapper {
     position: relative;
     margin: 0 auto;
   }
 }
-/* line 2, sass/partials/_buttons.scss */
+/* line 2, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .play_button {
   font-size: 18px;
   margin-top: 50px;
 }
 
-/* line 7, sass/partials/_buttons.scss */
+/* line 7, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
+.back_button {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+/* line 12, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .btn {
   border: none;
   background: none;
@@ -237,147 +243,147 @@ img.panel_logo {
   transition: all 0.1s;
 }
 
-/* line 21, sass/partials/_buttons.scss */
+/* line 26, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .default {
   color: #f2f1ef;
   background-color: #3498db;
 }
-/* line 24, sass/partials/_buttons.scss */
+/* line 29, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .default a {
   color: #f2f1ef;
 }
-/* line 27, sass/partials/_buttons.scss */
+/* line 32, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .default:hover {
   outline: 0 6px #2c3e50;
   box-shadow: 0px -4px 0px 0px #2c3e50 inset;
 }
-/* line 31, sass/partials/_buttons.scss */
+/* line 36, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .default:active {
   background-color: #2c3e50;
   top: 0px;
 }
 
-/* line 37, sass/partials/_buttons.scss */
+/* line 42, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .dark_highlight {
   color: #dadfe1;
   background-color: #2980b9;
   box-shadow: 0px -3px 0px 0px #2c3e50 inset;
   outline: 0 6px #2c3e50;
 }
-/* line 42, sass/partials/_buttons.scss */
+/* line 47, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .dark_highlight a {
   color: #f2f1ef;
 }
-/* line 45, sass/partials/_buttons.scss */
+/* line 50, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .dark_highlight:hover {
   box-shadow: 0px -4px 0px 0px #2c3e50 inset;
   outline: 0 6px #2c3e50;
   background-color: #2980b9;
 }
-/* line 50, sass/partials/_buttons.scss */
+/* line 55, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .dark_highlight:active {
   background-color: #2c3e50;
   top: 0px;
 }
 
-/* line 59, sass/partials/_buttons.scss */
+/* line 64, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .facebook {
   background-color: #2574a9;
 }
-/* line 61, sass/partials/_buttons.scss */
+/* line 66, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .facebook a {
   color: #f2f1ef;
 }
-/* line 64, sass/partials/_buttons.scss */
+/* line 69, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .facebook:hover {
   box-shadow: 0px -3px 0px 0px #758ab6 inset;
   outline: 0 6px #2c3e50;
   background-color: #3b5998;
 }
-/* line 69, sass/partials/_buttons.scss */
+/* line 74, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .facebook:active {
   background-color: #3b5998;
   top: 0px;
 }
 
-/* line 75, sass/partials/_buttons.scss */
+/* line 80, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .twitter {
   background-color: #2574a9;
 }
-/* line 77, sass/partials/_buttons.scss */
+/* line 82, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .twitter a {
   color: #f2f1ef;
 }
-/* line 80, sass/partials/_buttons.scss */
+/* line 85, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .twitter:hover {
   box-shadow: 0px -3px 0px 0px #8bdfff inset;
   outline: 0 6px #2c3e50;
   background-color: #00aced;
 }
-/* line 85, sass/partials/_buttons.scss */
+/* line 90, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .twitter:active {
   background-color: #00aced;
   top: 0px;
 }
 
-/* line 91, sass/partials/_buttons.scss */
+/* line 96, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .google {
   background-color: #2574a9;
 }
-/* line 93, sass/partials/_buttons.scss */
+/* line 98, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .google a {
   color: #f2f1ef;
 }
-/* line 96, sass/partials/_buttons.scss */
+/* line 101, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .google:hover {
   box-shadow: 0px -3px 0px 0px #e78174 inset;
   outline: 0 6px #2c3e50;
   background-color: #dd4b39;
 }
-/* line 101, sass/partials/_buttons.scss */
+/* line 106, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .google:active {
   background-color: #dd4b39;
   top: 0px;
 }
 
-/* line 109, sass/partials/_buttons.scss */
+/* line 114, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .right {
   float: right;
   clear: both;
 }
 
-/* line 114, sass/partials/_buttons.scss */
+/* line 119, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .left {
   float: left;
 }
 
-/* line 118, sass/partials/_buttons.scss */
+/* line 123, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_buttons.scss */
 .bottom {
   position: absolute;
   bottom: 0px;
 }
 
 /* CSV Table Classes */
-/* line 2, sass/partials/_tables.scss */
+/* line 2, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_tables.scss */
 TABLE.CSVTable {
   border-collapse: collapse;
   width: 100%;
 }
 
 /* Header */
-/* line 8, sass/partials/_tables.scss */
+/* line 8, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_tables.scss */
 TABLE.CSVTable THEAD TR {
   color: #f2f1ef;
   background: #2c3e50;
 }
 
-/* line 13, sass/partials/_tables.scss */
+/* line 13, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_tables.scss */
 TABLE.CSVTable TH {
   font-size: 1em;
 }
 
 /* Table Cells */
-/* line 18, sass/partials/_tables.scss */
+/* line 18, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_tables.scss */
 TABLE.CSVTable TD, TABLE.CSVTable TH {
   width: 25%;
   padding: 10px;
@@ -387,13 +393,13 @@ TABLE.CSVTable TD, TABLE.CSVTable TH {
 }
 
 /* Default background color for rows */
-/* line 26, sass/partials/_tables.scss */
+/* line 26, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_tables.scss */
 TABLE.CSVTable TR {
   background: #f2f1ef;
 }
 
 /* Background color for odd rows */
-/* line 30, sass/partials/_tables.scss */
+/* line 30, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_tables.scss */
 TABLE.CSVTable TR.odd {
   background: #3498db;
 }
@@ -403,7 +409,7 @@ TABLE.CSVTable TR.odd {
 /*
 ==================DESKTOP NAVIGATION====================
 */
-/* line 6, sass/partials/_navigation.scss */
+/* line 6, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav {
   background-color: #2c3e50;
   list-style: none;
@@ -411,26 +417,26 @@ TABLE.CSVTable TR.odd {
   padding: 0px;
   text-align: center;
 }
-/* line 12, sass/partials/_navigation.scss */
+/* line 12, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav ul {
   padding: 0px;
   margin: 0px;
 }
-/* line 16, sass/partials/_navigation.scss */
+/* line 16, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav li {
   display: inline;
   padding: 10px;
   margin: 0px;
 }
-/* line 20, sass/partials/_navigation.scss */
+/* line 20, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav li:hover {
   box-shadow: 0px -5px 0px 0px #2980b9 inset;
 }
-/* line 23, sass/partials/_navigation.scss */
+/* line 23, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav li:active {
   background-color: #2574a9;
 }
-/* line 27, sass/partials/_navigation.scss */
+/* line 27, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav a {
   font-size: 1em;
   color: #f2f1ef;
@@ -444,7 +450,7 @@ TABLE.CSVTable TR.odd {
 /*
 ==================DESKTOP NAVIGATION====================
 */
-/* line 42, sass/partials/_navigation.scss */
+/* line 42, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav-alt {
   background-color: #2980b9;
   list-style: none;
@@ -452,26 +458,26 @@ TABLE.CSVTable TR.odd {
   padding: 0px;
   text-align: center;
 }
-/* line 48, sass/partials/_navigation.scss */
+/* line 48, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav-alt ul {
   padding: 0px;
   margin: 0px;
 }
-/* line 52, sass/partials/_navigation.scss */
+/* line 52, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav-alt li {
   display: inline;
   padding: 10px;
   margin: 0px;
 }
-/* line 56, sass/partials/_navigation.scss */
+/* line 56, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav-alt li:hover {
   box-shadow: 0px -5px 0px 0px #2c3e50 inset;
 }
-/* line 59, sass/partials/_navigation.scss */
+/* line 59, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav-alt li:active {
   background-color: #2574a9;
 }
-/* line 63, sass/partials/_navigation.scss */
+/* line 63, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav-alt a {
   font-size: 0.9em;
   color: #f2f1ef;
@@ -485,49 +491,49 @@ TABLE.CSVTable TR.odd {
 /*
 ==================HIDDEN NAVIGATION====================
 */
-/* line 78, sass/partials/_navigation.scss */
+/* line 78, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .wrapper {
   position: relative;
   margin: 0 auto;
 }
 
-/* line 83, sass/partials/_navigation.scss */
+/* line 83, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .menu-link {
   color: #f2f1ef;
   position: absolute;
   padding: 1em;
   background-color: #2c3e50;
 }
-/* line 89, sass/partials/_navigation.scss */
+/* line 89, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .menu-link:hover {
   background-color: #2980b9;
 }
-/* line 92, sass/partials/_navigation.scss */
+/* line 92, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .menu-link:active {
   background-color: #2574a9;
 }
-/* line 95, sass/partials/_navigation.scss */
+/* line 95, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .menu-link i {
   font-size: 20px;
 }
 
-/* line 100, sass/partials/_navigation.scss */
+/* line 100, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .subtitle {
   text-align: center;
   font-size: 1.125em;
   margin: .5em 0;
 }
 
-/* line 106, sass/partials/_navigation.scss */
+/* line 106, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .btn-list {
   margin: 3em 0;
   text-align: center;
 }
-/* line 109, sass/partials/_navigation.scss */
+/* line 109, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .btn-list li {
   display: inline-block;
 }
-/* line 111, sass/partials/_navigation.scss */
+/* line 111, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .btn-list li:first-of-type {
   margin-right: 1em;
 }
@@ -535,7 +541,7 @@ TABLE.CSVTable TR.odd {
 /*
 ==================HIDDEN NAVIGATION PANEL====================
 */
-/* line 133, sass/partials/_navigation.scss */
+/* line 133, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .panel {
   text-transform: uppercase;
   background: #2574a9;
@@ -546,38 +552,38 @@ TABLE.CSVTable TR.odd {
   width: 15.625em;
   /*should match the above value*/
 }
-/* line 140, sass/partials/_navigation.scss */
+/* line 140, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .panel ul {
   list-style-type: none;
   padding: 0px;
   margin: 0px;
 }
-/* line 144, sass/partials/_navigation.scss */
+/* line 144, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .panel ul li {
   padding: 1em;
   box-shadow: 0px -1px 0px 0px #2980b9 inset;
 }
-/* line 147, sass/partials/_navigation.scss */
+/* line 147, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .panel ul li:hover {
   background-color: #2980b9;
 }
-/* line 151, sass/partials/_navigation.scss */
+/* line 151, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .panel ul a {
   color: #dadfe1;
   padding: 1em;
 }
-/* line 154, sass/partials/_navigation.scss */
+/* line 154, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .panel ul a.nav_link {
   font-size: 1em;
 }
 
-/* line 161, sass/partials/_navigation.scss */
+/* line 161, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
 .nav-icon {
   margin-right: 6px;
 }
 
 @media screen and (max-width: 968px) {
-  /* line 167, sass/partials/_navigation.scss */
+  /* line 167, /Users/Matthew/developer/github/nighthawk_phonegap/assets/css/sass/partials/_navigation.scss */
   .nav-alt li a {
     font-size: 0.7em;
   }
