@@ -144,9 +144,9 @@
 	  li {
 	  	padding: 1em;
 	  	box-shadow: 0px -1px 0px 0px $main_color_accent inset;
-	  	&:hover {
-	  		background-color: $main_color_accent;
-	  	}
+	  	// &:hover {
+	  	// 	background-color: $main_color_accent;
+	  	// }
 	  }
 	  a {
 	  	color: $bkg_color;

@@ -564,10 +564,6 @@ TABLE.CSVTable TR.odd {
   padding: 1em;
   box-shadow: 0px -1px 0px 0px #2980b9 inset;
 }
-/* line 147, sass/partials/_navigation.scss */
-.panel ul li:hover {
-  background-color: #2980b9;
-}
 /* line 151, sass/partials/_navigation.scss */
 .panel ul a {
   color: #dadfe1;
